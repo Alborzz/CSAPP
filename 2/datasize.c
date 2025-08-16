@@ -15,5 +15,6 @@ int main(void) {
     printf("sizeof(signed )        = %zu\n", sizeof(signed));
     printf("sizeof(signed int)     = %zu\n", sizeof(signed int ));
     printf("sizeof(unsigned short) = %zu\n", sizeof(unsigned short));
+    printf("sizeof(size_t)         = %zu\n", sizeof(size_t));
     return 0;
 }
