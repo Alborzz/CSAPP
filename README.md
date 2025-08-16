@@ -4,7 +4,7 @@ Welcome to my comprehensive collection of code examples, exercises, and problem 
 
 ## 📚 About This Repository
 
-This repository contains my implementations and solutions while working through one of the most influential computer systems textbooks. The book provides a **programmer's perspective** on how computer systems work, spanning hardware architecture, operating systems, compilers, and networks[11][12].
+This repository contains my implementations and solutions while working through one of the most influential computer systems textbooks. The book provides a **programmer's perspective** on how computer systems work, spanning hardware architecture, operating systems, compilers, and networks.
 
 ## 📖 Book Information
 
@@ -13,6 +13,6 @@ This repository contains my implementations and solutions while working through 
 - **Publisher**: Pearson
 - **Focus**: Understanding computer systems from an application programmer's viewpoint
 
-## 🗂️ Repository Structure
+
 
 
